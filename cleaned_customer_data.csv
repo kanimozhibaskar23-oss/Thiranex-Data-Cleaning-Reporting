@@ -1,0 +1,11 @@
+Customer_ID,Name,Age,City,Purchase_Amount
+C001,Arun,25,Chennai,1200.0
+C002,Priya,30,Chennai,1500.0
+C003,Kavin,29,Madurai,1800.0
+C004,Divya,28,Chennai,1800.0
+C005,Rahul,35,Trichy,2200.0
+C006,Meena,42,Madurai,2500.0
+C007,Vijay,29,Chennai,1750.0
+C008,Anu,29,Trichy,2000.0
+C009,Suresh,31,Unknown,1600.0
+C010,Karthik,27,Chennai,1900.0
